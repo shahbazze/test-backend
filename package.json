@@ -1,0 +1,20 @@
+{
+  "name": "get-request",
+  "version": "1.0.0",
+  "description": "A basic app to depoly get request test hi smjo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "get",
+    "deploy"
+  ],
+  "author": "shahbaz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
